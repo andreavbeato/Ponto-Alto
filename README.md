@@ -1,2 +1,2 @@
 # Ponto-Alto
-Site desenvolvido para estudo
+Em desenvolvimento como estudo
