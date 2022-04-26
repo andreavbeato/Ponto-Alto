@@ -1,0 +1,1 @@
+//document.write ("Quantos pontos tem na sua amostra?");
